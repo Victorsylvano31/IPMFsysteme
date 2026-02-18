@@ -1,0 +1,30 @@
+# Environnements virtuels
+mon_env/
+venv/
+env/
+.venv/
+
+# Environnement
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node modules (Frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Django
+ipmf/db.sqlite3
+ipmf/media/
+ipmf/staticfiles/
+ipmf/*.log
+ipmf/__pycache__/
+*.pyc
